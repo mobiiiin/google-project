@@ -1,2 +1,3 @@
 # google-project
-my first peoject 
+- my first peoject
+- it was a good challenge
